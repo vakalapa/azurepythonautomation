@@ -67,4 +67,4 @@ requests-oauthlib==0.8.0
 scandir==1.5
 scp==0.10.2
 six==1.10.0
-urllib3==1.22
+urllib3==1.26.5
