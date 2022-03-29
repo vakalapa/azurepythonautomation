@@ -54,7 +54,7 @@ msrest==0.4.11
 msrestazure==0.4.11
 netmiko==1.4.2
 oauthlib==2.0.2
-paramiko==2.2.1
+paramiko==2.10.1
 pathlib2==2.3.0
 pyasn1==0.3.2
 pycparser==2.18
